@@ -1,4 +1,3 @@
-:tddium:
-  :tests:
+ tests:
   - "echo 'Hello World, Dude.'"
   - "cat hello"
