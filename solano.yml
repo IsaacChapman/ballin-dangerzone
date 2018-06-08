@@ -1,3 +1,4 @@
- tests:
+tests:
   - "echo 'Hello World, Dude.'"
   - "cat hello"
+  - which google-chrome && google-chrome --version
